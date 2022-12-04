@@ -17,3 +17,7 @@ Procedimento de instalação do projeto:
 ![image](https://user-images.githubusercontent.com/100032235/205521591-666e9139-30df-429e-ac51-9316be3cb640.png)
 
 -----------------------------------------------------------------------------------------------------------------------
+- Em seguinda entre nas configurações do Django e faça as configurações que esta na marcação a seguir:
+
+
+![image](https://user-images.githubusercontent.com/100032235/205521828-502fa1b3-b3af-4107-8f9b-dc2b08c8d4e3.png)
