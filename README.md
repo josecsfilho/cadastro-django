@@ -21,3 +21,13 @@ Procedimento de instalação do projeto:
 
 
 ![image](https://user-images.githubusercontent.com/100032235/205521828-502fa1b3-b3af-4107-8f9b-dc2b08c8d4e3.png)
+
+
+- Importar OS
+
+![image](https://user-images.githubusercontent.com/100032235/205522184-febd5aec-0476-4a44-a952-58e5fc692c81.png)
+
+-----------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/100032235/205522202-2e1d3049-076d-47e6-8eb3-0827cea8a6fb.png)
+
