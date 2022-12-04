@@ -29,5 +29,15 @@ Procedimento de instalação do projeto:
 
 -----------------------------------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/100032235/205522202-2e1d3049-076d-47e6-8eb3-0827cea8a6fb.png)
+![image](https://user-images.githubusercontent.com/100032235/205522310-5ef034f1-fd9b-4473-be25-0a817692963f.png)
+
+	* python manage.py startapp clientes
+	* Em seguida entre nos arquivos dos print e faça as mesma configurações.
+
+![image](https://user-images.githubusercontent.com/100032235/205523576-4abda3eb-1eaf-44b2-aba9-4c29eb46a69b.png)
+
+
+![image](https://user-images.githubusercontent.com/100032235/205523601-be18a281-3528-4916-a934-80835ad026c0.png)
+
+
 
