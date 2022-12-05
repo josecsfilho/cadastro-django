@@ -43,5 +43,19 @@ Procedimento de instalação do projeto:
 ![image](https://user-images.githubusercontent.com/100032235/205523939-68607b6a-d2e1-4e74-b1be-fe2b3179b7ce.png)
 
 
+- Material de apoio e link do GitHub com arquivos:
+https://www.notion.so/Aula-01-086edfd0cce14c938e4d8727d60d08bb
+
+
+
+https://github.com/josecsfilho/cadastro-django.git
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 
